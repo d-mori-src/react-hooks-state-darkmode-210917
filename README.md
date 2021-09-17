@@ -7,5 +7,6 @@
 ```
 $ git clone https://github.com/d-mori-src/react-hooks-state-darkmode-210917.git
 $ cd react-hooks-state-darkmode-210917
+$ nom install
 $ npm start
 ```
